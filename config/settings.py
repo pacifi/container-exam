@@ -24,6 +24,7 @@ SECRET_KEY = 'django-insecure-a3i+mi6)bxyt&(h91yxp5$!tjdjcm(b6azfm$jf_j&8o6bt2pw
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+
 ALLOWED_HOSTS = ['*']
 
 # Application definition
@@ -38,6 +39,8 @@ INSTALLED_APPS = [
     'person.apps.PersonConfig',
     'storages'
 ]
+
+
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
