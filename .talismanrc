@@ -1,3 +1,3 @@
 fileignoreconfig:
 - filename: config/settings.py
-  ignore_detectors: [filename, filesize]
+  checksum: 9e6923584629c63b30253ffc0c89188fd39bf43ee9959917091747afbbf5cb49
