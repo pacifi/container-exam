@@ -1,6 +1,0 @@
-fileignoreconfig:
-- filename: config/settings.py
-  ignore_detectors: []
-fileignoreconfig:
-- filename: config/settings.py
-  ignore_detectors: [filename, filesize]
